@@ -9,6 +9,7 @@ Each record provides:
 - Mean or standard deviation of Triaxial Angular velocity from the gyroscope. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
+
 Experimental Study Design
 ======================================
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
